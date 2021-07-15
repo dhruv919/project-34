@@ -1,2 +1,1 @@
-# project-34
-made by dhruv gupta
+# Virtual Pet App
